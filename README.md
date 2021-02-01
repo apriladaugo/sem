@@ -2,4 +2,9 @@
 
 - Master Build Status [![Build Status](https://travis-ci.com/apriladaugo/sem.svg?branch=main)](https://https://travis-ci.com/github/apriladaugo/sem)
 
+[![LICENSE](https://img.shields.io/github/license/apriladaugo/sem.svg?style=flat-square)](https://github.com/apriladaugo/sem/blob/master/LICENSE
+
+[![Releases](https://img.shields.io/github/release/apriladaugo/sem/all.svg?style=flat-square)](https://github.com/apriladaugo/sem/releases)
+
+
 # Kelechi Ikwuegbu
