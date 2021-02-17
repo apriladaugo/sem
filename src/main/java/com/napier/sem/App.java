@@ -14,7 +14,7 @@ public class App
         // Get a database - will create when we use it
         MongoDatabase database = mongoClient.getDatabase("mydb");
         // Get a collection from the database
-        MongoCollection<Document> collection = database.getCollection("test");
+        MongoCollection<Document> collection = database.getCollection("test");40506041@live.napier.ac.uk40506041@live.napier.ac.uk
         // Create a document to store
             Document doc = new Document("name", "Kelechi Ikwuegbu")
                     .append("class", "Software Engineering Methods")
