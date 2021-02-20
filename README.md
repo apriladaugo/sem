@@ -1,6 +1,6 @@
 # Software Engineering Methods 
 
-- Master Build Status [![Build Status](https://travis-ci.com/apriladaugo/sem.svg?branch=main)](https://https://travis-ci.com/github/apriladaugo/sem)
+- Master Build Status [![Build Status](https://travis-ci.com/apriladaugo/sem.svg?branch=master)](https://https://travis-ci.com/github/apriladaugo/sem)
 
 - Develop Build Status [![Build Status](https://travis-ci.org/apriladaugo/sem.svg?branch=develop)](https://travis-ci.org/apriladaugo/sem)
 
